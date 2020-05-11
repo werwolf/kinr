@@ -1,0 +1,12 @@
+name: spectrometry
+channels:
+  - plotly
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - matplotlib=3.1.3
+  - numpy=1.18.1
+  - pillow=7.1.2
+  - plotly=4.7.1
+
